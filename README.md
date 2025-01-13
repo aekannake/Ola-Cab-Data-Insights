@@ -63,6 +63,8 @@ This project provides insights into a simulated ride-sharing dataset inspired by
     A scatter plot that compares customer and driver ratings for each completed ride to analyze correlations.
 
 ---
+![Slide_1](https://github.com/user-attachments/assets/5d9cd6c7-7a21-4a74-b268-cc77432aa03c)
+
 
 ## Summary
 
