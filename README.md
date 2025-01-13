@@ -64,6 +64,14 @@ This project provides insights into a simulated ride-sharing dataset inspired by
 
 ---
 ![Slide_1](https://github.com/user-attachments/assets/5d9cd6c7-7a21-4a74-b268-cc77432aa03c)
+![slide_2](https://github.com/user-attachments/assets/8b75e688-a9e8-45f9-9710-9f32a91d7fb9)
+![slide_3](https://github.com/user-attachments/assets/59ad95c7-badc-4aa7-adc4-bcf97b0d594e)
+![slide_4](https://github.com/user-attachments/assets/41e08fbd-a45c-4e77-bcd1-f9436491e5ea)
+![slide_5](https://github.com/user-attachments/assets/da83800b-ee4c-44db-9c98-262c45e0c93f)
+
+
+
+
 
 
 ## Summary
